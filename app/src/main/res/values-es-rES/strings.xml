@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lenguaje múltiple</string>
+
+    <string name="mul_lan">Lenguaje múltiple</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="username">Nombre de usuari</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="signup">Regístrate</string>
+    <string name="changeLan">Cambiar idioma</string>
+    <string name="homepage">Página de inicio</string>
+
+</resources>

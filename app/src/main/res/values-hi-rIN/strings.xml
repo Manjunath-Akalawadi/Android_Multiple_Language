@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">एकाधिक भाष</string>
+
+    <string name="mul_lan">एकाधिक भाषा</string>
+    <string name="welcome">स्वागत हे</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">पारण शब्द</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="signup">साइन अप करें</string>
+    <string name="changeLan">भाषा बदलो</string>
+    <string name="homepage">होम पेज</string>
+
+</resources>
