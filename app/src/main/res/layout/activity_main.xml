@@ -17,9 +17,7 @@
         android:layout_marginTop="24dp"
         android:text="@string/mul_lan"
         android:textColor="#ffff"
-        android:textSize="30dp"
-
-        />
+        android:textSize="30dp"/>
 
     <EditText
         android:id="@+id/editText"
